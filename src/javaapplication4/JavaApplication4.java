@@ -10,10 +10,10 @@ package javaapplication4;
  * @author kazakoff
  */
 public class JavaApplication4 {
-
+// master
 
     public static void main(String[] args) {
-// fdghbngfhgfh
+// fdghbngfhgf
     }
     
 }
