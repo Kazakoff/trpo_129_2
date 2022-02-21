@@ -9,6 +9,8 @@ package javaapplication4;
  *
  * @author kazakoff
  */
+
+// 148a
 public class NewClass {
     // v2
 }
