@@ -11,6 +11,7 @@ package javaapplication4;
  */
 
 // 148a
+// Vad
 public class NewClass {
     // v2
 }
